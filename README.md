@@ -43,13 +43,14 @@ $ ./keep_going
 | [`42_milestone_2`](https://github.com/ooiac/42_milestone_2) | push_swap, minitalk | complete |
 | [`42_milestone_3`](https://github.com/ooiac/42_milestone_3) | Philosophers, minishell, CPP | complete |
 | [`42_milestone_4`](https://github.com/ooiac/42_milestone_4) | NetPractice, cub3D | complete |
-| [`42_milestone_5`](https://github.com/ooiac/42_milestone_5) | Inception (Docker, from-scratch WordPress/Nginx/MariaDB stack + bonuses) | in progress |
+| [`42_milestone_5`](https://github.com/ooiac/42_milestone_5) | Inception (Docker, from-scratch WordPress/Nginx/MariaDB stack + bonuses), webserv (non-blocking HTTP/1.1 server in C++98, CGI + sessions bonuses), CPP modules 5-9 | in progress |
 ---
 ### stack
 ```
 languages   C  ·  C++  ·  Bash
 tools       Linux  ·  Git  ·  Vim  ·  Node.js  ·  Docker
 infra       Nginx  ·  MariaDB  ·  WordPress  ·  Redis
+network     HTTP/1.1  ·  epoll  ·  sockets  ·  CGI
 elsewhere   Premiere Pro  ·  After Effects
 ```
 ---
