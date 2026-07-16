@@ -30,10 +30,8 @@ $ cat motivation.txt
 cat: motivation.txt: No such file or directory
 $ ./keep_going
 ```
-- Doing the 42 Common Core in Belval. It's fine. Everything's fine. (:
-- Most of my code lives near the metal: memory, processes, sockets, parsers.
+- Doing the 42 Common Core in Belval.
 - I also edit POV travel vlogs in Premiere, because variety.
-- valgrind and I have an honest relationship. It tells me what I broke.
 ---
 ### 42 milestones
 | repo | contents | status |
